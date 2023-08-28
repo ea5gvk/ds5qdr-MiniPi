@@ -9,7 +9,7 @@
 - 2023.08.28 V0.99 : Released
 
 ## How to setup
-- download MiniPi-for-Windows-main.zip
+- download MiniPi-main.zip
 - unzip
 - run MiniPi.exe
 - for more information, click https://ds5qdr-dv.tistory.com/463
