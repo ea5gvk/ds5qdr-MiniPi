@@ -6,7 +6,7 @@
 
 
 ## History
-- 2023.08.28 V0.99 : Released
+- 2023.08.28 V0.99 : Released Beta Version
 
 ## How to setup
 - download MiniPi-main.zip
