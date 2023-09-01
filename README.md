@@ -1,7 +1,7 @@
 # MiniPi for Windows 
 - MiniPi
-- Version : V0.992
-- Updated Date : 2023.08.31
+- Version : V0.993
+- Updated Date : 2023.09.01
 - Programmed by DS5QDR Lee, Hoenmin
 
 
