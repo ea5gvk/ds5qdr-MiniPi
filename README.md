@@ -23,6 +23,7 @@
 - [YSF]
 
 [OPTION]
+
 ColorSet = white
 
 ![image](https://github.com/ds5qdr/MiniPi/assets/64110724/647c2a76-8fba-4ecf-8407-1e569f3a14be)
