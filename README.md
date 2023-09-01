@@ -25,6 +25,7 @@
 [OPTION]
 ColorSet = white
 ![image](https://github.com/ds5qdr/MiniPi/assets/64110724/647c2a76-8fba-4ecf-8407-1e569f3a14be)
+
 ColorSet = black
 ![image](https://github.com/ds5qdr/MiniPi/assets/64110724/55079379-9bc5-4224-bc3f-1648747094a1)
 
