@@ -14,7 +14,13 @@
 - run MiniPi.exe
 - for more information, click https://ds5qdr-dv.tistory.com/463
 
-## See MiniPi.ini [SERVERS] [OPTION] [DMR] [DSTAR] [NXDN] [P25] [YSF] Section
-
+## See MiniPi.ini
+- [SERVERS]
+- [OPTION]
+- [DMR]
+- [DSTAR]
+- [NXDN]
+- [P25]
+- [YSF]
 
 ## DS5QDR Lee, Heonmin
