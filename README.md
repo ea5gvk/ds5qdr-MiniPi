@@ -1,7 +1,7 @@
 # MiniPi for Windows 
 - MiniPi.exe
-- Version : 0.995
-- Last updated date : 2023.09.01
+- Version : 0.996
+- Last updated date : 2023.09.06
 - Programmed by DS5QDR Lee, Hoenmin
 
 ## History
