@@ -5,6 +5,7 @@
 - Programmed by DS5QDR Lee, Hoenmin
 
 # MiniMT for Windows
+- MiniMT can connect and communicate with multiple DVSwitch Servers at the same time
 - MiniMT.exe
 - Version : 0.82 
 
