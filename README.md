@@ -6,7 +6,7 @@
 
 # MiniMT for Windows
 - MiniMT.exe
-- Version : 0.82
+- Version : 0.82 
 
 ## History
 - 2023.08.28 V0.99 : Released MiniPi beta Version
