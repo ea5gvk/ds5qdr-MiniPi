@@ -8,7 +8,7 @@
 - MiniMT can connect and communicate with multiple DVSwitch Servers at the same time
 - MiniMT.exe
 - Version : 0.835
-  Last updated date : 2023.09.27
+- Last updated date : 2023.09.27
 
 ## History
 - 2023.08.28 V0.99 : Released MiniPi beta Version
