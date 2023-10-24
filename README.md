@@ -41,7 +41,7 @@ ColorSet = black
 
 MiniMT
 
-![image](https://github.com/ds5qdr/MiniPi/assets/64110724/4176ec6a-f2fc-44d5-89f6-98e254279905)
+![image](https://github.com/ds5qdr/MiniPi/assets/64110724/8bc0ae91-fe47-4d74-bdee-d1df92df19eb)
 
 
 
