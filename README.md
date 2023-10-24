@@ -40,7 +40,9 @@ ColorSet = black
 ![image](https://github.com/ds5qdr/MiniPi/assets/64110724/55079379-9bc5-4224-bc3f-1648747094a1)
 
 MiniMT
-![image](https://github.com/ds5qdr/MiniPi/assets/64110724/aa39967e-61b7-4653-99ab-ba203ea1ae78)
+
+![image](https://github.com/ds5qdr/MiniPi/assets/64110724/4176ec6a-f2fc-44d5-89f6-98e254279905)
+
 
 
 ## DS5QDR Lee, Heonmin
