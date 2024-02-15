@@ -1,14 +1,14 @@
 # MiniPi for Windows 
 - MiniPi.exe
-- Version : 0.998
-- Last updated date : 2023.09.25
+- Version : 0.999
+- Last updated date : 2024.02.15
 - Programmed by DS5QDR Lee, Hoenmin
 
 # MiniMT for Windows
 - MiniMT can connect and communicate with multiple DVSwitch Servers at the same time
 - MiniMT.exe
-- Version : 0.844
-- Last updated date : 2023.10.24
+- Version : 0.857
+- Last updated date : 2024.02.15
 
 ## History
 - 2023.08.28 V0.99 : Released MiniPi beta Version
